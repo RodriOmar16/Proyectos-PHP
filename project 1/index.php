@@ -2,8 +2,8 @@
 <body>
 
 <?php
-$txt = "PHP";
-echo "I love $txt!";
+  $txt = "PHP";
+  echo "I love $txt!";
 ?>
 
 </body>
